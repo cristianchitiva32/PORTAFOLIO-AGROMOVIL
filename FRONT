@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html lang="es">
+	<title>Agrotech </title>
+	<link rel="stylesheet" href="style.css">
+	
+<head>
+
+     <header>
+        
+		<div >
+				<source><img src="Agromovil.png"width= "150px"height="150 px">
+				
+		</div>
+
+		<div class="Textinto">
+			<center><h1>servicios para la agroindustria</h1 </center>
+		</div>
+
+	</header>
+
+	
+	
+					
+				
+<style>
+    header{
+	width:100%; /* Establecemos que el header abarque el 100% del documento */
+	overflow: 200px; /* Eliminamos errores de float */
+	text-align: center;
+	background:#2dac33;
+	margin: bottom 200px;
+	color: #f7fffa;
+	font-size: 20px
+	font-weight: 900px;
+	font-style: italic;
+	}
+</style>
+
+<style>
+	.Botones {
+
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		height: 30px;
+		justify-content: space-around;
+	}
+</style>
+
+<style>
+	.Imagenes {
+
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		height: 300px;
+		justify-content: space-around
+	}
+
+	
+</style>
+
+<style>
+	
+	.Textinto
+	.Textinto {
+		font-size: 90px
+		font-style: italic;
+		
+	}
+</style>
+
+
+<style>
+
+	footer {
+
+		background-color: #05641d;
+		text-align: left;
+		color: #f7fffa;
+		font-size: 80%;
+		.sedan-regular {
+  		font-family: "Sedan", serif;
+  		font-weight: 400;
+  		font-style: normal;
+}
+	}
+	
+</style>
+
+<body>
+
+	<div class="Imagenes">
+				
+		<img src="cultivos.png" width="150 px" height="150 px" alt="">
+					
+		<img src="CARGA.jpeg"width= "150px" height="150px" alt="">
+					
+		<img src="Centros de acopio.png" width="150 px" height="150" alt="">
+	</div>
+
+
+
+	<div class ="Botones">
+		<button onclick="location.href='file:///C:/Users/crist/OneDrive%20-%20Universidad%20de%20San%20Buenaventura%20-%20Bogota/Desktop/AGROEMPRESARIO.html'">
+		AGROEMPRESARIO</button>
+		<button onclick="location.href='file:///C:/Users/crist/OneDrive%20-%20Universidad%20de%20San%20Buenaventura%20-%20Bogota/Desktop/TRANS.html'">
+		TRANSPORTADOR</button>
+		<button onclick="location.href='file:///C:/Users/crist/OneDrive%20-%20Universidad%20de%20San%20Buenaventura%20-%20Bogota/Desktop/CENTROS%20DE%20ACOPIO.html'">
+			CENTROS DE ACOPIO</button>
+	</div>
+
+	
+	
+	
+	</body>
+
+<footer>
+
+	<div class="contenido">
+		<h2>sobre nosotros</h2>
+		<h1>Contato: contratacionesagrotech@gmail.com</h1>
+		<h1>Nit:900.888.888</h1>
+
+	</div>
+
+
+
+
+</footer>
+
