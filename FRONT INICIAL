@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<html lang="es">
+	<title>Agrotech </title>
+	<link rel="stylesheet" href="style.css">
+    
+	
+<head>
+
+     <header>
+        
+		<div >
+				<source><img src="Agromovil.png"width= "200px"height="200 px">
+				
+		</div>
+
+        <div class="Textinto">
+			<center><h1>servicios para la agroindustria</h1 </center>
+		</div>
+
+	</header>
+
+	
+	
+					
+				
+<style>
+    header{
+	width:100%; /* Establecemos que el header abarque el 100% del documento */
+	overflow: 200px; /* Eliminamos errores de float */
+	text-align: center;
+	background:#2dac33;
+	margin: bottom 200px;
+	color: #f7fffa;
+    font-size: 80px
+	font-weight: 150px;
+	font-style: italic;
+	}
+</style>
+
+    <style>
+        .Textinto {
+         font-size: 100%;
+
+
+        }
+    </style>
+
+<style>
+    .boton_login {
+
+            align-items:flex-end;
+            text-align: right;
+            font-size: 48%;
+    }
+</style>
+<style>
+
+	footer {
+
+		background-color: #05641d;
+		text-align: left;
+		color: #f7fffa;
+		font-size: 80%;
+		.sedan-regular {
+  		font-family: "Sedan", serif;
+  		font-weight: 200;
+  		font-style: normal;
+}
+	}
+	
+</style>
+
+<style>
+
+    .Texto_intro {
+        
+        text-align: center;
+        justify-content: center;
+        font-size: 150%;
+        color: #6a6e6b;
+        
+    }
+</style>
+
+<style>
+
+.Texto_intro2 {
+        
+        text-align: center;
+        justify-content: center;
+        font-size: 150%;
+        color: #6a6e6b;
+    }
+</style>
+<style>
+    .imagen_coffe {
+
+        justify-content: center;
+        text-align: center;
+        font-size: 40px;
+
+    }
+</style>
+
+<style>
+    .linea.divisoria {
+
+        border-top: 150px #000000;
+        margin: 20px 0;
+        background-color: #000000;
+        font-size: 10px
+    }
+
+        </style>
+
+
+
+
+<body>
+
+    <div class = "boton_login">
+         <button onclick="location.href='file:///C:/Users/crist/OneDrive%20-%20Universidad%20de%20San%20Buenaventura%20-%20Bogota/Desktop/FRONT%20PRINCIPAL.html'">LOGIN</button>
+    </div>
+
+    <div class= "imagen_coffe">
+
+        <img src="cafeee.png" height="150px" right="150px" alt="">
+
+    </div>
+
+    <div class="Texto_intro">
+	<p>En un mundo cada vez más conectado y tecnológicamente avanzado, 
+        presentamos un proyecto innovador que revolucionará la forma en 
+        que se transportan y comercializan los productos agrícolas. Con 
+        nuestra aplicación web, estamos abriendo las puertas a un mercado global 
+        donde los agricultores pueden conectar directamente con los consumidores
+         y distribuidores, eliminando intermediarios y optimizando el proceso de
+          transporte y comercialización. </p>
+        </div>
+
+        <div class = "linea.divisoria"></div>
+
+        <div class="Texto_intro2">
+            Nuestra plataforma ofrece una solución integral 
+          que garantiza la frescura de los productos, la eficiencia en la logística y 
+        la transparencia en las transacciones. Únete a nosotros mientras exploramos cómo
+         esta iniciativa está transformando la industria agrícola, impulsando la economía 
+         local y promoviendo un futuro más sostenible para todos.
+        </div>
+
+
+	
+		
+	</div>
+
+	
+	
+	
+	</body>
+
+<footer>
+
+	<div class="contenido">
+		<h2>Datos de contacto</h2>
+		<h1>Contato: contratacionesagrotech@gmail.com</h1>
+		<h1>Nit:900.888.888</h1>
+
+	</div>
